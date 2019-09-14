@@ -7,7 +7,7 @@ The projects here include portfolios, my CV and resume, and simple cheat sheets 
 [Email me!](mailto:nicole.rothenay@tamucc.edu)
 
 ## Connect with me 
-Follow me on Github @HelloNicoleR
-[Follow me on Twitter @HelloNicoleR](https://twitter.com/HelloNicoleR)
-[Connect with me on LinkedIn](https://www.linkedin.com/in/nrothenay/)
+Follow me on Github @HelloNicoleR  
+[Follow me on Twitter @HelloNicoleR](https://twitter.com/HelloNicoleR)  
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nrothenay/)  
 
