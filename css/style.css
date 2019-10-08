@@ -78,7 +78,7 @@ header a:hover{
 /* Showcase */
 #showcase{
   min-height:400px;
-  background:url('../media/book-worm.jpeg') no-repeat 0 -400px;
+  background:url('../media/book-worm.jpeg') no-repeat;
   text-align:center;
   color:#ffffff;
 }
