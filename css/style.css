@@ -17,7 +17,15 @@ ul{
   padding:0;
 }
 
-
+/* Button */
+.button_1{
+  height:30px;
+  background:#162A40;
+  border:0;
+  padding-left: 20px;
+  padding-right: 20px;
+  color:#ffffff
+}
 /* Header */
 header{
   background:#4B9BEB;
@@ -85,4 +93,36 @@ newsletter{
   padding:15px;
   color:#ffffff;
   background:#4B9BEB;
+}
+
+newsletter form {
+  float:right;
+}
+
+newsletter input(type="mail")
+
+/* Boxes */
+#boxes{
+  margin-top:20px;
+}
+
+#boxes .box{
+  float:left;
+  text-align: center;
+  width:30%;
+  padding:10px;
+}
+
+#boxes .box img{
+  width:90px;
+}
+
+/* Footer */
+
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color: #94ACE0;
+  text-align: center;
 }
