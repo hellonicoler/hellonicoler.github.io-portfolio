@@ -4,12 +4,19 @@ body{
   margin:0;
 }
 
-/*Gloval */
+/*Global */
 container{
   width:80%;
   margin:auto;
   overflow:hidden;
 }
+
+/* Makes nav menu vertical, no padding/margin */
+ul{
+  margin:0;
+  padding:0;
+}
+
 
 /* Header */
 header{
@@ -20,16 +27,12 @@ header{
   border-bottom:#0D3482 3px solid;
 }
 
+/* Makes links in header white, all upcase */
 header a{
   color:#ffffff;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
-}
-
-header ul{
-  margin:0;
-  padding:0;
 }
 
 header li{
@@ -46,6 +49,13 @@ header #branding h1{
   margin:0;
 }
 
+/*Moves nav menu right and down */
 header nav{
   float:right;
+  margin-top:10px;
+}
+
+header .highlight, header .current a{
+  color:#54E8E8
+  font-weight:bold
 }
