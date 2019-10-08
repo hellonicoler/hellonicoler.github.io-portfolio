@@ -60,3 +60,15 @@ header .highlight, header .current a{
   color:#54E8E8;
   font-weight:bold;
 }
+
+/*Hover turns link white */
+header a:hover{
+  color:#ffffff;
+  font-weight:bold;
+}
+
+/* Showcase */
+#showcase{
+  min-height:400px;
+  background:url('../media/book-worm.png') no-repeat;
+}
