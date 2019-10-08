@@ -55,7 +55,8 @@ header nav{
   margin-top:10px;
 }
 
+/* Highlights text + current link */
 header .highlight, header .current a{
-  color:#54E8E8
-  font-weight:bold
+  color:#54E8E8;
+  font-weight:bold;
 }
