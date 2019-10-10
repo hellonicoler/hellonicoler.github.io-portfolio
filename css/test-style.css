@@ -2,8 +2,11 @@
 
 /* Let's start with some global changes */
 html {
-  background: url(frigid.jpg) no-repeat center fixed;
+  background: url(https://hellonicoler.github.io/media/anton-strogonoff-TcCjnohtRnA-unsplash.jpg) no-repeat center fixed;
+  background-size: cover;
+}
 
+/* body */
 body {
   background-color: #EDEFF7;
   color: #4247EB;
