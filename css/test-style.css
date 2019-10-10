@@ -1,6 +1,9 @@
 /* This is a sample style sheet */
 
 /* Let's start with some global changes */
+html {
+  background: url(frigid.jpg) no-repeat center fixed;
+
 body {
   background-color: #EDEFF7;
   color: #4247EB;
