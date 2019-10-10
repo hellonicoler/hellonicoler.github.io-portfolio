@@ -11,6 +11,11 @@ container{
   overflow:hidden;
 }
 
+html {
+  background: url(https://hellonicoler.github.io/media/anton-strogonoff-TcCjnohtRnA-unsplash.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
 /* Makes nav menu vertical, no padding/margin */
 ul{
   margin:0;
