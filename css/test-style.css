@@ -1,0 +1,9 @@
+/* This is a sample style sheet */
+
+/* Let's start with some global changes */
+body {
+  background-color: #EDEFF7;
+  color: #4247EB;
+  font-family: fantasy;
+
+}
