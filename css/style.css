@@ -33,16 +33,16 @@ ul{
 }
 /* Header */
 header{
-  background:#4B9BEB;
+  background:#000000;
   color:#ffffff;
   padding-top:30px;
   min-height:70px;
   border-bottom:#0D3482 3px solid;
 }
 
-/* Makes links in header white, all upcase */
+/* Makes links in header black, all upcase */
 header a{
-  color:#ffffff;
+  color:#000000;
   text-decoration:none;
   text-transform: uppercase;
   font-size:16px;
@@ -70,20 +70,20 @@ header nav{
 
 /* Highlights text + current link */
 header .highlight, header .current a{
-  color:#54E8E8;
+  color:#add8e6;
   font-weight:bold;
 }
 
-/*Hover turns link white */
+/*Hover turns link light blue */
 header a:hover{
-  color:#ffffff;
+  color:#add8e6;
   font-weight:bold;
 }
 
 /* Showcase */
 #showcase{
   text-align:center;
-  color:#54E8E8;
+  color:#add8e6;
 }
 
 #showcase h1{
@@ -92,17 +92,7 @@ header a:hover{
   margin-bottom:10px;
 }
 
-newsletter{
-  padding:15px;
-  color:#ffffff;
-  background:#4B9BEB;
-}
 
-newsletter form {
-  float:right;
-}
-
-newsletter input(type="mail")
 
 /* Boxes */
 #boxes{
@@ -125,7 +115,7 @@ newsletter input(type="mail")
 footer{
   padding:20px;
   margin-top:20px;
-  color:#ffffff;
-  background-color: #94ACE0;
+  color:#000000;
+  background-color: #ffffff;
   text-align: center;
 }
