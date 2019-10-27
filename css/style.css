@@ -11,7 +11,7 @@ container{
   overflow:hidden;
 }
 
-html {
+html{
   background: url(https://hellonicoler.github.io/media/anton-strogonoff-TcCjnohtRnA-unsplash.jpg) no-repeat center fixed;
   background-size: cover;
 }
@@ -22,7 +22,7 @@ ul{
   padding:0;
 }
 
-/* Button */
+/* Button
 .button_1{
   height:30px;
   background:#162A40;
@@ -31,6 +31,8 @@ ul{
   padding-right: 20px;
   color:#ffffff
 }
+*/
+
 /* Header */
 header{
   background:#ffffff;
@@ -80,13 +82,19 @@ header a:hover{
   font-weight:bold;
 }
 
+div .containter {
+  padding:20px;
+}
+
+#showcase {
+  padding:20px;
+}
 
 /* Footer */
 
 footer{
   padding:20px;
-  margin-top:20px;
+  margin-top:50px;
   color:#000000;
-  background-color: #ffffff;
   text-align: center;
 }
