@@ -20,6 +20,7 @@ html{
 ul{
   margin:0;
   padding:0;
+  text-decoration:none;
 }
 
 /* Button
@@ -97,4 +98,6 @@ footer{
   margin-top:50px;
   color:#000000;
   text-align: center;
+  display:inline;
+  text-decoration:none;
 }
