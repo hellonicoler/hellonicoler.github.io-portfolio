@@ -1,6 +1,6 @@
 body{
   font: 15px/1.5 Arial, Helvetica, sans-serif;
-  padding:0;
+  padding:5px;
   margin:0;
 }
 
@@ -83,16 +83,18 @@ header a:hover{
   font-weight:bold;
 }
 
+/* Give me some space! */
 div .containter {
   padding:20px;
 }
 
+/* Give the showcase some room */
 #showcase {
   padding:20px;
+  text-align: center;
 }
 
 /* Footer */
-
 footer{
   padding:20px;
   margin-top:50px;
