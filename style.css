@@ -16,8 +16,6 @@ html{
   background-size: cover;
 }
 
-
-
 /* Makes nav menu vertical, no padding/margin */
 ul{
   margin:0;
@@ -56,7 +54,7 @@ header a{
 header li{
   float:left;
   display:inline;
-  padding: 0 20px 0 20px;
+  padding: 0 30px 0 30px;
 }
 
 header #intro{
@@ -86,7 +84,7 @@ header a:hover{
 }
 
 /* Give me some space! */
-div .containter {
+div .container {
   padding:20px;
 }
 
@@ -101,9 +99,7 @@ footer{
   padding:20px;
   margin-top:50px;
   color:#000000;
-  text-align: center;
   display:inline;
-  text-decoration:none;
   width:100%;
   position: fixed;
   bottom: 0px;
