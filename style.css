@@ -74,7 +74,7 @@ header nav{
 }
 
 /* Highlights text + current link */
-header .highlight, header .current a{
+header .highlight, header .current, a{
   color:#add8e6;
   font-weight:bold;
 }
